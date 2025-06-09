@@ -1,6 +1,6 @@
 ## Responsables
--Keinner Manuel Muñoz Gomez(avatar verde).
--Jhonatan Steven Garcia Gomez(avatar morado).
+-**Keinner Manuel Muñoz Gomez(avatar verde).**
+-**Jhonatan Steven Garcia Gomez(avatar morado).**
 
 El proyecto está organizado con las siguientes columnas:
 
