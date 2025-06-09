@@ -1,6 +1,6 @@
-##Responsables
--**Keinner Manuel Muñoz Gomez**(avatar verde)
--**Jhonatan Steven Garcia Gomez**(avatar morado)
+## Responsables
+Keinner Manuel Muñoz Gomez(avatar verde)
+Jhonatan Steven Garcia Gomez(avatar morado)
 
 El proyecto está organizado con las siguientes columnas:
 
@@ -9,8 +9,7 @@ El proyecto está organizado con las siguientes columnas:
 - **In Review**: Tareas en revisión.
 - **Done**: Tareas completadas.
 
-  Cada issue incluye la siguiente información:
-
+## Campos Personalizados
 - **Prioridad**: Alta, Media o Baja
 - **Fecha límite**:Fecha estimada de ejecucion
 - **Etiquetas**: Clasificadas por tipo de tarea (`test`, `documentation`, `Desarrollo`, `Diseño UI`, `analisis`).
